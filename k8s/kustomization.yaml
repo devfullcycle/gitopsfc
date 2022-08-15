@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: wesleywillians/gitopsfc
-  newTag: newtag
+  newTag: 19274f942f31ed3d10fed21f23c872a91d1f17f4
